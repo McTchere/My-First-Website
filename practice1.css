@@ -1,0 +1,43 @@
+
+
+.hero{
+    display: flex;
+    gap: 30px;
+    color: white;
+    padding-left: 9%;
+}
+
+.hero,.cap{
+    text-align: justify;
+    color: white;
+}
+
+.hero img{
+    border-radius: 260px;
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background: #090040;
+}
+
+.content{
+color: white;
+margin: 0%;
+padding-left: 10%;
+list-style-position: inside;
+text-align: justify;
+}
+
+.content li{
+    margin-left: 0%;
+    padding-left: 0%;
+    list-style-position: outside;
+    text-align: left;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+}
